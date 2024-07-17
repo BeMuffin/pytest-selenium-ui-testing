@@ -1,0 +1,1 @@
+# Pytest + Selenium Web Driver framework for the UI testing
